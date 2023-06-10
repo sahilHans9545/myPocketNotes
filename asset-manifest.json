@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myPocketNotes/static/css/main.6a916632.css",
-    "main.js": "/myPocketNotes/static/js/main.6c91db39.js",
+    "main.css": "/myPocketNotes/static/css/main.a9683c82.css",
+    "main.js": "/myPocketNotes/static/js/main.6bc4ef77.js",
     "static/js/787.765cfb16.chunk.js": "/myPocketNotes/static/js/787.765cfb16.chunk.js",
     "static/media/notesBg.png": "/myPocketNotes/static/media/notesBg.d8c7b9bc0a963cbce718.png",
     "index.html": "/myPocketNotes/index.html",
-    "main.6a916632.css.map": "/myPocketNotes/static/css/main.6a916632.css.map",
-    "main.6c91db39.js.map": "/myPocketNotes/static/js/main.6c91db39.js.map",
+    "main.a9683c82.css.map": "/myPocketNotes/static/css/main.a9683c82.css.map",
+    "main.6bc4ef77.js.map": "/myPocketNotes/static/js/main.6bc4ef77.js.map",
     "787.765cfb16.chunk.js.map": "/myPocketNotes/static/js/787.765cfb16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a916632.css",
-    "static/js/main.6c91db39.js"
+    "static/css/main.a9683c82.css",
+    "static/js/main.6bc4ef77.js"
   ]
 }
